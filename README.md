@@ -121,7 +121,7 @@ Since February 2017:
 
 <dt>Applied Machine Learning Days 2020</dt>
 <dd>Epfl, Switzerland - January 12-17, 2020</dd>
-<dd>Organized anc chaired the ["AI & ML on the Edge"](https://www.youtube.com/playlist?list=PLQLsY14zlfebLHsraI49Ak5TWTQCK17c6) track, with 8 invited speakers: Brandon Reagen from Facebook AI, Abdel Younes from Synaptics, Camille Marini from Owkin, Anastasia Koloskova from EPFL, Frédéric Pétrot from INP/ENSIMAG, Andrey Ignatov from ETH Zürich, Francesco Caltagirone from Sonos, and Aurélien Bellet from INRIA.</dd>
+<dd>Organized anc chaired the <a href="https://www.youtube.com/playlist?list=PLQLsY14zlfebLHsraI49Ak5TWTQCK17c6">"AI & ML on the Edge"</a> track, with 8 invited speakers: Brandon Reagen from Facebook AI, Abdel Younes from Synaptics, Camille Marini from Owkin, Anastasia Koloskova from EPFL, Frédéric Pétrot from INP/ENSIMAG, Andrey Ignatov from ETH Zürich, Francesco Caltagirone from Sonos, and Aurélien Bellet from INRIA.</dd>
 
 <dt>International Conference on Audio, Speech, and Signal Processing</dt>
 <dd>Brighton, UK - May 12-17, 2019</dd>
