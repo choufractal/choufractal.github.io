@@ -2,7 +2,7 @@
 
 You can find my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=OiCh6NoAAAAJ&hl=en&oi=ao).
 
-### Current
+## Current
 
 At Sonos (and previously Snips), we consider the problem of automatic speech recognition on the edge, e.g. on small devices typical of IoT applications, with privacy in mind. I filed 3 patents currently under review. I have worked on several topics in automatic speech recognition: fairness in automatic speech recognition, keyword spotting in the context of wake word detectors, natural language understanding, sentence generation, etc.
 
@@ -43,7 +43,7 @@ At Sonos (and previously Snips), we consider the problem of automatic speech rec
 
 * * *
 
-### PhD
+## PhD
 
 I pursued my PhD under the supervision of Rémi Monasson and Martin Weigt at the lab of theoretical physics of the École Normale Supérieure (Paris). I focused on maximum entropy graphical model inference and its application to genomic data, especially protein structure prediction. I discussed the extension of these approaches to other challenging fields, such as sequence folding prediction and homology detection. Through an extensive study on both artificial and biological data, I provided a better interpretation of the central inferred parameters, up to then poorly understood. I presented a new and more precise procedure for the inference of generative models, which lead to further improvements on real, finitely sampled data.
 
@@ -69,7 +69,7 @@ I pursued my PhD under the supervision of Rémi Monasson and Martin Weigt at the
 
 * * *
 
-### Misc
+## Misc
 
 In January 2018, I took part in the DAT-ICU datathon for intensive care, aiming at presenting a clinical project using the MIMIC database (data about 50 000 intensive care unit patients). We proposed to associate a clinical print to each patient stay, allowing for instance to identify clusters of similar patients in a non supervised approach. We presented an algorithm of clinical data (textual and numerical) dimensionality reduction based on deep learning techniques.
 My team won the first prize.
