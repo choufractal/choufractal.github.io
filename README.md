@@ -8,21 +8,21 @@ Contact: coucke [at] phare [dot] normalesup [dot] org
 
 Twitter: @alicecoucke
 
-## Research
+# Research
 
 You can find my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=OiCh6NoAAAAJ&hl=en&oi=ao).
 
-### Current
+## Current
 
 At Sonos (and previously Snips), we consider the problem of automatic speech recognition on the edge, e.g. on small devices typical of IoT applications, with privacy in mind. I filed 3 patents currently under review. I have worked on several topics in automatic speech recognition: fairness in automatic speech recognition, keyword spotting in the context of wake word detectors, natural language understanding, sentence generation, etc.
 
 J. Balian, R. Tavarone, M. Poumeyrol, A Coucke
 Small Footprint Text-Independent Speaker Verification For Embedded Systems
-ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …		2021
+April 2021, International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2021
 
 S. D'Ascoli, A. Coucke, F. Caltagirone, A. Caulier, and M. Lelarge
 Conditioned Text Generation with Transfer for Closed-Domain Dialogue Systems
-November 2019, International Conference on Statistical Language and Speech Processing 2019, oral presentation
+November 2020, International Conference on Statistical Language and Speech Processing 2019, oral presentation
 
 S. D'Ascoli, A. Coucke, F. Caltagirone, A. Caulier, and M. Lelarge
 Conditioned Query Generation for Task-Oriented Dialogue Systems
@@ -45,7 +45,7 @@ Snips Voice Platform: an embedded Spoken Language Understanding system for priva
 May 2018, Privacy in Machine Learning and Artificial Intelligence worskhop at ICML 2018, spotlight
 
 
-### PhD
+## PhD
 
 I pursued my PhD under the supervision of Rémi Monasson and Martin Weigt at the lab of theoretical physics of the École Normale Supérieure (Paris). I focused on maximum entropy graphical model inference and its application to genomic data, especially protein structure prediction. I discussed the extension of these approaches to other challenging fields, such as sequence folding prediction and homology detection. Through an extensive study on both artificial and biological data, I provided a better interpretation of the central inferred parameters, up to then poorly understood. I presented a new and more precise procedure for the inference of generative models, which lead to further improvements on real, finitely sampled data.
 
