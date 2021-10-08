@@ -41,6 +41,7 @@ At Sonos (and previously Snips), we consider the problem of automatic speech rec
  
 </dl>
 
+* * *
 
 ### PhD
 
@@ -66,6 +67,7 @@ I pursued my PhD under the supervision of Rémi Monasson and Martin Weigt at the
 
 </dl>
 
+* * *
 
 ### Misc
 
@@ -89,6 +91,3 @@ During my master 2, I worked at the "Physico-Chimie" lab of the Institut Curie u
 <dd>December 2015, Physical Review E</dd>
 
 </dl>
-
-
-* * *
