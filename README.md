@@ -18,33 +18,40 @@ You can find my publications on my [Google Scholar Profile](https://scholar.goog
 
 At Sonos (and previously Snips), we consider the problem of automatic speech recognition on the edge, e.g. on small devices typical of IoT applications, with privacy in mind. I filed 3 patents currently under review. I have worked on several topics in automatic speech recognition: fairness in automatic speech recognition, keyword spotting in the context of wake word detectors, natural language understanding, sentence generation, etc.
 
-J. Balian, R. Tavarone, M. Poumeyrol, A Coucke
-Small Footprint Text-Independent Speaker Verification For Embedded Systems
-April 2021, International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2021
+<dl>
+  
+<dt><a href="https://arxiv.org/abs/2011.01709">Small Footprint Text-Independent Speaker Verification For Embedded Systems
+</a></dt>
+<dd>J. Balian, R. Tavarone, M. Poumeyrol, and A. Coucke</dd>
+<dd>April 2021, International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2021, poster</dd>
+ 
+<dt><a href="https://arxiv.org/abs/2011.02143">Conditioned Text Generation with Transfer for Closed-Domain Dialogue Systems</a></dt>
+<dd>S. D'Ascoli, A. Coucke, F. Caltagirone, A. Caulier, and M. Lelarge</dd>
+<dd>November 2020, International Conference on Statistical Language and Speech Processing 2019, oral presentation</dd>
 
-S. D'Ascoli, A. Coucke, F. Caltagirone, A. Caulier, and M. Lelarge
-Conditioned Text Generation with Transfer for Closed-Domain Dialogue Systems
-November 2020, International Conference on Statistical Language and Speech Processing 2019, oral presentation
+<dt><a href="https://arxiv.org/abs/1911.03698">Conditioned Query Generation for Task-Oriented Dialogue Systems
+</a></dt>
+<dd>S. D'Ascoli, A. Coucke, F. Caltagirone, A. Caulier, and M. Lelargeo</dd>
+<dd>November 2019, arXiv preprint</dd>
 
-S. D'Ascoli, A. Coucke, F. Caltagirone, A. Caulier, and M. Lelarge
-Conditioned Query Generation for Task-Oriented Dialogue Systems
-November 2019, arXiv preprint
+<dt><a href="https://arxiv.org/abs/1810.12735">Spoken Language Understanding at the Edge</a></dt>
+<dd>A. Saade, A. Coucke, A. Caulier, J. Dureau, A. Ball, T. Blüche, D. Leroy, C. Doumouro, T. Gisselbrecht, F. Caltagirone, T. Lavril, and M. Primet</dd>
+<dd>October 2019, Energy Efficient Machine Learning and Cognitive Computing workshop NeurIPS 2019, poster and oral presentation</dd>
 
-A. Saade, A. Coucke, A. Caulier, J. Dureau, A. Ball, T. Blüche, D. Leroy, C. Doumouro, T. Gisselbrecht, F. Caltagirone, T. Lavril, and M. Primet
-Spoken Language Understanding at the Edge
-October 2019, Energy Efficient Machine Learning and Cognitive Computing workshop NeurIPS 2019, poster and oral presentation
+<dt><a href="https://arxiv.org/abs/1811.07684">Efficient Keyword Spotting using Dilated Convolutions and Gating</a></dt>
+<dd>A. Coucke, M. Chlieh, T. Gisselbrecht, D. Leroy, M. Poumeyrol, and T. Lavril</dd>
+<dd>November 2018, International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2019, poster</dd>
 
-A. Coucke, M. Chlieh, T. Gisselbrecht, D. Leroy, M. Poumeyrol, and T. Lavril
-Efficient Keyword Spotting using Dilated Convolutions and Gating
-November 2018, International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2019, poster
+<dt><a href="https://arxiv.org/abs/1810.05512">Federated Learning for Keyword Spotting</a></dt>
+<dd>D. Leroy, A. Coucke, T. Lavril, T. Gisselbrecht, and J. Dureau</dd>
+<dd>October 2018, International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2019, poster</dd>
 
-D. Leroy, A. Coucke, T. Lavril, T. Gisselbrecht, and J. Dureau
-Federated Learning for Keyword Spotting
-October 2018, International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2019, poster
-
-A. Coucke, A. Saade, A. Ball, T. Blüche, A. Caulier, D. Leroy, C. Doumouro, T. Gisselbrecht, F. Caltagirone, T. Lavril, M. Primet, and J. Dureau
-Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces
-May 2018, Privacy in Machine Learning and Artificial Intelligence worskhop at ICML 2018, spotlight
+<dt><a href="https://arxiv.org/abs/1805.10190">Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces
+</a></dt>
+<dd>A. Coucke, A. Saade, A. Ball, T. Blüche, A. Caulier, D. Leroy, C. Doumouro, T. Gisselbrecht, F. Caltagirone, T. Lavril, M. Primet, and J. Dureau</dd>
+<dd>May 2018, Privacy in Machine Learning and Artificial Intelligence worskhop at ICML 2018, spotlight presentation</dd>
+ 
+</dl>
 
 
 ### PhD
@@ -70,6 +77,7 @@ I pursued my PhD under the supervision of Rémi Monasson and Martin Weigt at the
 <dd>October 2016, PhD thesis</dd>
 
 </dl>
+
 
 ### Other
 
