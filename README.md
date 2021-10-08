@@ -79,20 +79,29 @@ I pursued my PhD under the supervision of Rémi Monasson and Martin Weigt at the
 </dl>
 
 
-### Other
+### Misc
 
 In January 2018, I took part in the DAT-ICU datathon for intensive care, aiming at presenting a clinical project using the MIMIC database (data about 50 000 intensive care unit patients). We proposed to associate a clinical print to each patient stay, allowing for instance to identify clusters of similar patients in a non supervised approach. We presented an algorithm of clinical data (textual and numerical) dimensionality reduction based on deep learning techniques.
 My team won the first prize.
 
-J. Escudié, A. Saade, A. Coucke, and M. Lelarge
-Deep representation for patient visits from electronic health records
-March 2018, arxiv preprint
+<dl>
+  
+<dt><a href="https://arxiv.org/abs/1803.09533">Deep representation for patient visits from electronic health records</a></dt>
+<dd>J. Escudié, A. Saade, A. Coucke, and M. Lelarge</dd>
+<dd>March 2018, arxiv preprint</dd>
+
+</dl>
 
 During my master 2, I worked at the "Physico-Chimie" lab of the Institut Curie under the supervision of Jean-François Joanny. I developed a theoretical model based on active gel theory and performed numerical simulations to study the effect of cell migration on morphogenesis in biological tissues. 
 
-E. Hannezo, A. Coucke, and JF. Joanny
-An interplay of migratory and division forces as a generic mechanism for stem cell patterns
-December 2015, Physical Review E
+<dl>
+  
+<dt><a href="https://arxiv.org/abs/1512.05896">An interplay of migratory and division forces as a generic mechanism for stem cell patterns</a></dt>
+<dd>E. Hannezo, A. Coucke, and JF. Joanny</dd>
+<dd>December 2015, Physical Review E</dd>
+
+</dl>
+
 
 * * *
 
