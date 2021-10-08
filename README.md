@@ -52,26 +52,15 @@ May 2018, Privacy in Machine Learning and Artificial Intelligence worskhop at IC
 I pursued my PhD under the supervision of Rémi Monasson and Martin Weigt at the lab of theoretical physics of the École Normale Supérieure (Paris). I focused on maximum entropy graphical model inference and its application to genomic data, especially protein structure prediction. I discussed the extension of these approaches to other challenging fields, such as sequence folding prediction and homology detection. Through an extensive study on both artificial and biological data, I provided a better interpretation of the central inferred parameters, up to then poorly understood. I presented a new and more precise procedure for the inference of generative models, which lead to further improvements on real, finitely sampled data.
 
 <dl>
-<dt>Inference of compressed Potts graphical models</dt>
+<dt>[Inference of compressed Potts graphical models](https://arxiv.org/abs/1907.12793)</dt>
 <dd>F. Rizzato, A. Coucke, E. De Leonardis, J. Barton, J. Tubiana, R. Monasson, and S. Cocco</dd>
 <dd>July 2019, Physical Review E</dd>
 <dt>Direct coevolutionary couplings reflect biophysical residue interactions in proteins</dt>
 <dd>A. Coucke, G. Uguzzoni, F. Oteri, S. Cocco, R. Monasson, and M. Weigt</dd>
-<dd>November 2016, The Journal of chemical physics</dd>
+<dd>November 2016, The Journal of chemical physics, [link](https://arxiv.org/abs/1907.12793)</dd>
 </dl>
 
-*   Inference of compressed Potts graphical models
 
-F. Rizzato, A. Coucke, E. De Leonardis, J. Barton, J. Tubiana, R. Monasson, and S. Cocco
-
-July 2019, Physical Review E
-
-
-*   Direct coevolutionary couplings reflect biophysical residue interactions in proteins
-
-A. Coucke, G. Uguzzoni, F. Oteri, S. Cocco, R. Monasson, and M. Weigt
-
-July 2019, Physical Review E
 
 
 F. Rizzato, A. Coucke, E. De Leonardis, J. Barton, J. Tubiana, R. Monasson, and S. Cocco
