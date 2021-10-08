@@ -118,7 +118,11 @@ On another topic, I am worried about diversity in the machine learning community
 Since February 2017:
 
 <dl>
-  
+
+<dt>Applied Machine Learning Days 2020</dt>
+<dd>Epfl, Switzerland - January 12-17, 2020</dd>
+<dd>Organized anc chaired the ["AI & ML on the Edge"](https://www.youtube.com/playlist?list=PLQLsY14zlfebLHsraI49Ak5TWTQCK17c6) track, with 8 invited speakers: Brandon Reagen from Facebook AI, Abdel Younes from Synaptics, Camille Marini from Owkin, Anastasia Koloskova from EPFL, Frédéric Pétrot from INP/ENSIMAG, Andrey Ignatov from ETH Zürich, Francesco Caltagirone from Sonos, and Aurélien Bellet from INRIA.</dd>
+
 <dt>International Conference on Audio, Speech, and Signal Processing</dt>
 <dd>Brighton, UK - May 12-17, 2019</dd>
 <dd>2 poster presentations & 1 demo</dd>
@@ -133,7 +137,7 @@ Since February 2017:
 <dd>London - March 8, 2019</dd>
 <dd>Talk: Snips approach to private-by-design spoken language understanding</dd>
 
-<dt>Applied Machine Learning Days</dt>
+<dt>Applied Machine Learning Days 2019</dt>
 <dd>EPFL, Switzerland - January 26-29 2019</dd>
 <dd>Talk: <a href="https://appliedmldays.org/events/amld-epfl-2019/talks/spoken-language-understanding-on-the-edge-da8db4b8-7759-49f5-9d23-24c3a5a00ca3">Spoken Language Understanding on the Edge</a></dd>
 
