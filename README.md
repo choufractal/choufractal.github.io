@@ -1,4 +1,4 @@
-# Hello !
+# Hello!
 
 I am Head of Machine Learning Research at Sonos, focusing on privacy-first speech recognition for voice experiences. I was previously Director of Machine Learning Research at Snips (acquired by Sonos in November 2019) that I joined in February 2017. I am lucky to work with a team of around 60 extremely talented and passionate people in our R&D department "Sonos Voice Experience" in Paris.
 
