@@ -107,7 +107,7 @@ During my master 2, I worked at the "Physico-Chimie" lab of the Institut Curie u
 
 # Outreach
 
-I enjoy giving talks and discussing new ideas with people. I am very much interested in finding ways to present and apprehend complicated theories. I could not agree more with the great physicist Richard Feynman who said
+I enjoy giving talks and discussing new ideas with people. I am very much interested in finding ways to present and apprehend complicated theories. I could not agree more with the great physicist Richard Feynman who said:
 > If you cannot explain something in simple terms, you don't understand it. 
 
 On another topic, I am worried about diversity in the machine learning community, and I try to raise awareness on that specific subject.
@@ -167,6 +167,30 @@ Since February 2017:
 
 <dt>Chatbot Summit</dt>
 <dd>Berlin - June 26, 2017</dd>
-<dd>Panel discussion: <a href="https://www.chatbotsummit.com/berlin2017">The Frontiers of NLU"</a></dd>
+<dd>Panel discussion: <a href="https://www.chatbotsummit.com/berlin2017">The Frontiers of NLU</a></dd>
 
 </dl>
+
+### And more ...
+
+From 2018 to 2020, I sat at the board of the [CNC-RIAM](https://www.cnc.fr/professionnels/aides-et-financements/industries-techniques-innovation-et-relief/reseau-recherche-et-innovation-en-audiovisuel-et-multimedia-riam_191500) as an Artificial Intelligence specialist. RIAM (Recherche et Innovation en Audiovisuel et Multimédia) provides financial grants to innovative R&D projects in production, processing, distribution, and publication of images and audio.
+It is a partnership between CNC (Centre National du Cinema et de l'image animée) and BPI France.
+
+On September 12, 2019, I was invited as an expert in artificial intelligence to participate to the [Committee of Equality and Non Discrimination](https://pace.coe.int/en/news/7616) of the Parliamentary Assembly of the Council of Europe in Paris.
+
+On June 13, 2019, I gave a [presentation](https://www.coe.int/en/web/artificial-intelligence/-/artificial-intelligence-and-gender-equality) at the Council of Europe in Strasbourg about artificial intelligence and its gender equality implications. I was invited by Cécile Greboval and Caterina Bolognese from the Gender Mainstreaming Team of the CoE.
+
+On April 21, 2019, I participated in a round table called ["Comment rendre l'IA plus inclusive ?"](https://gaite-lyrique.net/evenement/lintelligence-artificielle-est-elle-sexiste) with Aude Bernheim and Peggy Pierrot moderated by Elisa Braun at la Gaité Lyrique in the context of the series of events [Computer Grrrls - History, Gender, Technology](https://gaite-lyrique.net/en/event/computer-grrrls) (in French).
+
+In November 2018, I recorded a podcast in French about algorithms (for non-specialists), where I try to define and explain the basic concepts, give many examples, and talk about bias with Rachel Nullans from Brains Agency. ["À la découverte des algorithmes"](https://rachelnullans.paris/alice-coucke-a-la-decouverte-des-algorithmes/) (in French).
+
+On March 29, 2018, I participated in a round table about artificial intelligence moderated by Aline Richard Zivohlava. Rendez-Vous de l'Inspirations: Les Intelligences Artificielles. ["Au commencement est l’humain"](https://www.youtube.com/watch?v=0ZW42yDR41Y) (in French).
+
+
+### Press and Awards
+
+In February 2021, I gave an [interview](https://www.ens.psl.eu/actualites/de-la-physique-theorique-au-machine-learning) for the Ecole Normale Supérieure's online alumni section (in French).
+
+In January 2018, we won with my team the [DAT-ICU datathon](https://www.aphp.fr/contenu/datathon-dat-icu-intensive-care-unit-4-projets-innovants-selectionnes-lissue-de-48h-danalyse) organized by l'APHP, see the Research section of this website for more infos (in French).
+
+In February 2018, I was listed among the 100 French people who are making artificial intelligence in the "start-uppers" section by l'[Usine Nouvelle](https://www.usinenouvelle.com/article/la-physicienne-alice-coucke-senior-data-scientist-snips.N648588) (in French).
