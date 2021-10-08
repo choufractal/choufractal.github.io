@@ -5,8 +5,9 @@ I enjoy giving talks and discussing new ideas with people. I am very much intere
 
 On another topic, I am worried about diversity in the machine learning community, and I try to raise awareness on that specific subject.
 
+* * *
 
-### Technical talks and conferences
+## Technical talks and conferences
 
 Since February 2017:
 
@@ -72,7 +73,9 @@ Since February 2017:
 
 </dl>
 
-### And more ...
+* * *
+
+## And more ...
 
 On September 17, 2021, I was invited to a round table "Physics and Machine Learning" at the ["Recontres Physique - Entreprise - Recherche"](https://rper.sciencesconf.org/resource/page/id/15) organized by the Société Française de Physique.
 
@@ -91,8 +94,9 @@ In November 2018, I recorded a podcast in French about algorithms (for non-speci
 
 On March 29, 2018, I participated in a round table about artificial intelligence moderated by Aline Richard Zivohlava. Rendez-Vous de l'Inspirations: Les Intelligences Artificielles. ["Au commencement est l’humain"](https://www.youtube.com/watch?v=0ZW42yDR41Y) (in French).
 
+* * *
 
-### Press and Awards
+## Press and Awards
 
 In February 2021, I gave an [interview](https://www.ens.psl.eu/actualites/de-la-physique-theorique-au-machine-learning) for the Ecole Normale Supérieure's online alumni section (in French).
 
