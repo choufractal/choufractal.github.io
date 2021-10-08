@@ -122,51 +122,51 @@ Since February 2017:
 <dt>International Conference on Audio, Speech, and Signal Processing</dt>
 <dd>Brighton, UK - May 12-17, 2019</dd>
 <dd>2 poster presentations & 1 demo</dd>
-<dd>Posters: "Keyword Spotting and Embedded ASR systems", "Federated Learning for Keyword Spotting"</dd>
-<dd>Demo: "On-device private-by-design voice assistant"</dd>
+<dd>Posters: <a href="https://cmsworkshops.com/ICASSP2019/Papers/PublicSessionIndex3.asp?Sessionid=1134">Keyword Spotting and Embedded ASR systems</a>, <a href="">Federated Learning for Keyword Spotting</a></dd>
+<dd>Demo: <a href="https://cmsworkshops.com/ICASSP2019/Demos.asp#DEMO-7">On-device private-by-design voice assistant</a></dd>
 
 <dt>Journée Intelligence Artificielle du LIPN</dt>
 <dd>Laboratoire d'Informatique de Paris Nord - March 27, 2019</dd>
-<dd>Talk: "Spoken Language Understanding on the Edge"</dd>
+<dd>Talk: <a href="https://lipn.univ-paris13.fr/journeeIA/">Spoken Language Understanding on the Edge</a></dd>
 
 <dt>Element AI internal seminar</dt>
 <dd>London - March 8, 2019</dd>
-<dd>Talk: "Snips approach to private-by-design spoken language understanding"</dd>
+<dd>Talk: Snips approach to private-by-design spoken language understanding</dd>
 
 <dt>Applied Machine Learning Days</dt>
 <dd>EPFL, Switzerland - January 26-29 2019</dd>
-<dd>Talk: "Spoken Language Understanding on the Edge"</dd>
+<dd>Talk: <a href="https://appliedmldays.org/events/amld-epfl-2019/talks/spoken-language-understanding-on-the-edge-da8db4b8-7759-49f5-9d23-24c3a5a00ca3">Spoken Language Understanding on the Edge</a></dd>
 
 <dt>Privacy in Machine Learning and Artificial Intelligence Workshop at ICML</dt>
 <dd>Stockholm - July 15, 2018</dd>
-<dd>Spotlight session talk: "Snips Voice Platform: an embedded spoken language understanding system for private-by-design voice interfaces"</dd>
+<dd>Spotlight session talk: <a href="https://pimlai.github.io/pimlai18/">Snips Voice Platform: an embedded spoken language understanding system for private-by-design voice interfaces</a></dd>
 
 <dt>Atelier sur la Protection de la Vie Privée, INRIA</dt>
 <dd>Porquerolles, France - June 3-6, 2018</dd>
-<dd>Talk: "SNIPS: Use cases for decentralized machine learning" (oral presentation by David Leroy)</dd>
+<dd>Talk: <a href="https://project.inria.fr/apvp2018/programme/">SNIPS: Use cases for decentralized machine learning</a> (oral presentation by David Leroy)</dd>
 
 <dt>Women in Machine Learning & Data Science meetup</dt>
 <dd>Google HQ, Paris - May 29 2018</dd>
-<dd>Talk: "Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces"</dd>
+<dd>Talk: <a href="https://www.meetup.com/fr-FR/Paris-Women-in-Machine-Learning-Data-Science/events/250371181/">Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces</a></dd>
 
 <dt>Paris AI Meetup</dt>
 <dd>Algolia HQ, Paris - April 4, 2018</dd>
-<dd>Talk: "Snips, a cloud-independent private-by-design voice platform" </dd>
+<dd>Talk: <a href="https://www.paris.ai/speaker/espen-brunberg/">Snips, a cloud-independent private-by-design voice platform"</a></dd>
 
 <dt>DataLadies Meetup</dt>
 <dd>DataJob, Paris - November 22, 2017</dd>
-<dd>Talk: "Assistants vocaux embarqués: quels défis techniques ?"</dd>
+<dd>Talk: <a href="https://wimlds-paris.medium.com/6-paris-women-in-machine-learning-data-science-ml-for-voice-assistants-ds-for-improved-219d0f16d47f">Assistants vocaux embarqués: quels défis techniques ?</a></dd>
 
 <dt>European Women In Tech Conference</dt>
 <dd>Amsterdam - November 8-9, 2017</dd>
-<dd>Seminar: "Building an AI that Respects your Privacy: Natural Language Understanding and Speech Recognition on Device"</dd>
+<dd>Seminar: <a href="https://app.qwoted.com/opportunities/event-european-women-in-technology-2017">Building an AI that Respects your Privacy: Natural Language Understanding and Speech Recognition on Device</a></dd>
 
 <dt>NLP Meetup</dt>
 <dd>Snips HQ, Paris - October 4, 2017</dd>
-<dd>Talk: "Benchmarking NLUs: how and why?"</dd>
+<dd>Talk: <a href="https://www.meetup.com/fr-FR/Paris-NLP/events/237681177/">Benchmarking NLUs: how and why?</a></dd>
 
 <dt>Chatbot Summit</dt>
 <dd>Berlin - June 26, 2017</dd>
-<dd>Panel discussion: "The Frontiers of NLU"</dd>
-  
+<dd>Panel discussion: <a href="https://www.chatbotsummit.com/berlin2017">The Frontiers of NLU"</a></dd>
+
 </dl>
