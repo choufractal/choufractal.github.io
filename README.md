@@ -52,38 +52,24 @@ May 2018, Privacy in Machine Learning and Artificial Intelligence worskhop at IC
 I pursued my PhD under the supervision of Rémi Monasson and Martin Weigt at the lab of theoretical physics of the École Normale Supérieure (Paris). I focused on maximum entropy graphical model inference and its application to genomic data, especially protein structure prediction. I discussed the extension of these approaches to other challenging fields, such as sequence folding prediction and homology detection. Through an extensive study on both artificial and biological data, I provided a better interpretation of the central inferred parameters, up to then poorly understood. I presented a new and more precise procedure for the inference of generative models, which lead to further improvements on real, finitely sampled data.
 
 <dl>
+  
 <dt><a href="https://arxiv.org/abs/1907.12793">Inference of compressed Potts graphical models</a></dt>
 <dd>F. Rizzato, A. Coucke, E. De Leonardis, J. Barton, J. Tubiana, R. Monasson, and S. Cocco</dd>
 <dd>July 2019, Physical Review E</dd>
-<dt>Direct coevolutionary couplings reflect biophysical residue interactions in proteins</dt>
+ 
+<dt><a href="https://arxiv.org/abs/1907.12793">Direct coevolutionary couplings reflect biophysical residue interactions in proteins</a></dt>
 <dd>A. Coucke, G. Uguzzoni, F. Oteri, S. Cocco, R. Monasson, and M. Weigt</dd>
-<dd>November 2016, The Journal of chemical physics, <a href="https://arxiv.org/abs/1907.12793">link</a></dd>
+<dd>November 2016, The Journal of chemical physics</dd>
+
+<dt><a href="https://academic.oup.com/bioinformatics/article/32/20/3089/2196363">ACE: adaptive cluster expansion for maximum entropy graphical model inference</a></dt>
+<dd>J. Barton, E. De Leonardis, A. Coucke, and S. Cocco</dd>
+<dd>May 2016, Bioinformatics</dd>
+
+<dt><a href="https://hal.archives-ouvertes.fr/tel-01736980/">Statistical modeling of protein sequences beyond structural prediction: High-dimensional inference with correlated data</a></dt>
+<dd>A. Coucke</dd>
+<dd>October 2016, PhD thesis</dd>
+
 </dl>
-
-
-
-
-* F. Rizzato, A. Coucke, E. De Leonardis, J. Barton, J. Tubiana, R. Monasson, and S. Cocco
-
-Inference of compressed Potts graphical models
-
-July 2019, Physical Review E
-
-
-* A. Coucke, G. Uguzzoni, F. Oteri, S. Cocco, R. Monasson, and M. Weigt
-
-Direct coevolutionary couplings reflect biophysical residue interactions in proteins
-
-November 2016, The Journal of chemical physics
-
-J. Barton, E. De Leonardis, A. Coucke, and S. Cocco
-ACE: adaptive cluster expansion for maximum entropy graphical model inference
-May 2016, Bioinformatics
-
-A. Coucke
-Statistical modeling of protein sequences beyond structural prediction: High-dimensional inference with correlated data
-October 2016, PhD thesis
-
 
 ### Other
 
@@ -99,3 +85,6 @@ During my master 2, I worked at the "Physico-Chimie" lab of the Institut Curie u
 E. Hannezo, A. Coucke, and JF. Joanny
 An interplay of migratory and division forces as a generic mechanism for stem cell patterns
 December 2015, Physical Review E
+
+* * *
+
