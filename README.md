@@ -57,18 +57,23 @@ I pursued my PhD under the supervision of Rémi Monasson and Martin Weigt at the
 <dd>July 2019, Physical Review E</dd>
 <dt>Direct coevolutionary couplings reflect biophysical residue interactions in proteins</dt>
 <dd>A. Coucke, G. Uguzzoni, F. Oteri, S. Cocco, R. Monasson, and M. Weigt</dd>
-<dd>November 2016, The Journal of chemical physics, [link](https://arxiv.org/abs/1907.12793)</dd>
+<dd>November 2016, The Journal of chemical physics, <a href="https://arxiv.org/abs/1907.12793">link</a></dd>
 </dl>
 
 
 
 
 * F. Rizzato, A. Coucke, E. De Leonardis, J. Barton, J. Tubiana, R. Monasson, and S. Cocco
+
 Inference of compressed Potts graphical models
+
 July 2019, Physical Review E
 
+
 * A. Coucke, G. Uguzzoni, F. Oteri, S. Cocco, R. Monasson, and M. Weigt
+
 Direct coevolutionary couplings reflect biophysical residue interactions in proteins
+
 November 2016, The Journal of chemical physics
 
 J. Barton, E. De Leonardis, A. Coucke, and S. Cocco
