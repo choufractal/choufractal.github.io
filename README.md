@@ -173,6 +173,10 @@ Since February 2017:
 
 ### And more ...
 
+On September 17, 2021, I was invited to a round table "Physics and Machine Learning" at the ["Recontres Physique - Entreprise - Recherche"](https://rper.sciencesconf.org/resource/page/id/15) organized by the Société Française de Physique.
+
+In November 2019 and October 2020, I was invited to the "Corporate meeting" of the Physics department of the Ecole Normale Supérieure where I share [my journey from theoretical physics to machine learning](https://www.phys.ens.fr/IMG/pdf/-174.pdf) with master and PhD students.
+
 From 2018 to 2020, I sat at the board of the [CNC-RIAM](https://www.cnc.fr/professionnels/aides-et-financements/industries-techniques-innovation-et-relief/reseau-recherche-et-innovation-en-audiovisuel-et-multimedia-riam_191500) as an Artificial Intelligence specialist. RIAM (Recherche et Innovation en Audiovisuel et Multimédia) provides financial grants to innovative R&D projects in production, processing, distribution, and publication of images and audio.
 It is a partnership between CNC (Centre National du Cinema et de l'image animée) and BPI France.
 
