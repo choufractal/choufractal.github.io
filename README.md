@@ -7,5 +7,3 @@ Prior to joining Snips, I was a PhD student at the theoretical physics lab of th
 Contact: coucke [at] phare [dot] normalesup [dot] org
 
 Twitter: @alicecoucke
-
-* * *
