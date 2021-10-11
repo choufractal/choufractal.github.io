@@ -77,22 +77,22 @@ Since February 2017:
 
 ## And more ...
 
-On September 17, 2021, I was invited to a round table "Physics and Machine Learning" at the ["Recontres Physique - Entreprise - Recherche"](https://rper.sciencesconf.org/resource/page/id/15) organized by the Société Française de Physique.
+* On September 17, 2021, I was invited to a round table "Physics and Machine Learning" at the ["Recontres Physique - Entreprise - Recherche"](https://rper.sciencesconf.org/resource/page/id/15) organized by the Société Française de Physique.
 
-In November 2019 and October 2020, I was invited to the "Corporate meeting" of the Physics department of the Ecole Normale Supérieure where I share [my journey from theoretical physics to machine learning](https://www.phys.ens.fr/IMG/pdf/-174.pdf) with master and PhD students.
+* In November 2019 and October 2020, I was invited to the "Corporate meeting" of the Physics department of the Ecole Normale Supérieure where I share [my journey from theoretical physics to machine learning](https://www.phys.ens.fr/IMG/pdf/-174.pdf) with master and PhD students.
 
-From 2018 to 2020, I sat at the board of the [CNC-RIAM](https://www.cnc.fr/professionnels/aides-et-financements/industries-techniques-innovation-et-relief/reseau-recherche-et-innovation-en-audiovisuel-et-multimedia-riam_191500) as an Artificial Intelligence specialist. RIAM (Recherche et Innovation en Audiovisuel et Multimédia) provides financial grants to innovative R&D projects in production, processing, distribution, and publication of images and audio.
+* From 2018 to 2020, I sat at the board of the [CNC-RIAM](https://www.cnc.fr/professionnels/aides-et-financements/industries-techniques-innovation-et-relief/reseau-recherche-et-innovation-en-audiovisuel-et-multimedia-riam_191500) as an Artificial Intelligence specialist. RIAM (Recherche et Innovation en Audiovisuel et Multimédia) provides financial grants to innovative R&D projects in production, processing, distribution, and publication of images and audio.
 It is a partnership between CNC (Centre National du Cinema et de l'image animée) and BPI France.
 
-On September 12, 2019, I was invited as an expert in artificial intelligence to participate to the [Committee of Equality and Non Discrimination](https://pace.coe.int/en/news/7616) of the Parliamentary Assembly of the Council of Europe in Paris.
+* On September 12, 2019, I was invited as an expert in artificial intelligence to participate to the [Committee of Equality and Non Discrimination](https://pace.coe.int/en/news/7616) of the Parliamentary Assembly of the Council of Europe in Paris.
 
-On June 13, 2019, I gave a [presentation](https://www.coe.int/en/web/artificial-intelligence/-/artificial-intelligence-and-gender-equality) at the Council of Europe in Strasbourg about artificial intelligence and its gender equality implications. I was invited by Cécile Greboval and Caterina Bolognese from the Gender Mainstreaming Team of the CoE.
+* On June 13, 2019, I gave a [presentation](https://www.coe.int/en/web/artificial-intelligence/-/artificial-intelligence-and-gender-equality) at the Council of Europe in Strasbourg about artificial intelligence and its gender equality implications. I was invited by Cécile Greboval and Caterina Bolognese from the Gender Mainstreaming Team of the CoE.
 
-On April 21, 2019, I participated in a round table called ["Comment rendre l'IA plus inclusive ?"](https://gaite-lyrique.net/evenement/lintelligence-artificielle-est-elle-sexiste) with Aude Bernheim and Peggy Pierrot moderated by Elisa Braun at la Gaité Lyrique in the context of the series of events [Computer Grrrls - History, Gender, Technology](https://gaite-lyrique.net/en/event/computer-grrrls) (in French).
+* On April 21, 2019, I participated in a round table called ["Comment rendre l'IA plus inclusive ?"](https://gaite-lyrique.net/evenement/lintelligence-artificielle-est-elle-sexiste) with Aude Bernheim and Peggy Pierrot moderated by Elisa Braun at la Gaité Lyrique in the context of the series of events [Computer Grrrls - History, Gender, Technology](https://gaite-lyrique.net/en/event/computer-grrrls) (in French).
 
-In November 2018, I recorded a podcast in French about algorithms (for non-specialists), where I try to define and explain the basic concepts, give many examples, and talk about bias with Rachel Nullans from Brains Agency. ["À la découverte des algorithmes"](https://rachelnullans.paris/alice-coucke-a-la-decouverte-des-algorithmes/) (in French).
+* In November 2018, I recorded a podcast in French about algorithms (for non-specialists), where I try to define and explain the basic concepts, give many examples, and talk about bias with Rachel Nullans from Brains Agency. ["À la découverte des algorithmes"](https://rachelnullans.paris/alice-coucke-a-la-decouverte-des-algorithmes/) (in French).
 
-On March 29, 2018, I participated in a round table about artificial intelligence moderated by Aline Richard Zivohlava. Rendez-Vous de l'Inspirations: Les Intelligences Artificielles. ["Au commencement est l’humain"](https://www.youtube.com/watch?v=0ZW42yDR41Y) (in French).
+* On March 29, 2018, I participated in a round table about artificial intelligence moderated by Aline Richard Zivohlava. Rendez-Vous de l'Inspirations: Les Intelligences Artificielles. ["Au commencement est l’humain"](https://www.youtube.com/watch?v=0ZW42yDR41Y) (in French).
 
 * * *
 
