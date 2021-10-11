@@ -98,8 +98,8 @@ It is a partnership between CNC (Centre National du Cinema et de l'image animée
 
 ## Press and Awards
 
-In February 2021, I gave an [interview](https://www.ens.psl.eu/actualites/de-la-physique-theorique-au-machine-learning) for the Ecole Normale Supérieure's online alumni section (in French).
+* In February 2021, I gave an [interview](https://www.ens.psl.eu/actualites/de-la-physique-theorique-au-machine-learning) for the Ecole Normale Supérieure's online alumni section (in French).
 
-In January 2018, we won with my team the [DAT-ICU datathon](https://www.aphp.fr/contenu/datathon-dat-icu-intensive-care-unit-4-projets-innovants-selectionnes-lissue-de-48h-danalyse) organized by l'APHP, see the Research section of this website for more infos (in French).
+* In January 2018, we won with my team the [DAT-ICU datathon](https://www.aphp.fr/contenu/datathon-dat-icu-intensive-care-unit-4-projets-innovants-selectionnes-lissue-de-48h-danalyse) organized by l'APHP, see the Research section of this website for more infos (in French).
 
-In February 2018, I was listed among the 100 French people who are making artificial intelligence in the "start-uppers" section by l'[Usine Nouvelle](https://www.usinenouvelle.com/article/la-physicienne-alice-coucke-senior-data-scientist-snips.N648588) (in French).
+* In February 2018, I was listed among the 100 French people who are making artificial intelligence in the "start-uppers" section by l'[Usine Nouvelle](https://www.usinenouvelle.com/article/la-physicienne-alice-coucke-senior-data-scientist-snips.N648588) (in French).
