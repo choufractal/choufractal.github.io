@@ -77,9 +77,7 @@ Since February 2017:
 
 ## And more ...
 
-* On September 17, 2021, I was invited to a round table "Physics and Machine Learning" at the ["Recontres Physique - Entreprise - Recherche"](https://rper.sciencesconf.org/resource/page/id/15) organized by the Société Française de Physique.
-
-* In November 2019 and October 2020, I was invited to the "Corporate meeting" of the Physics department of the Ecole Normale Supérieure where I share [my journey from theoretical physics to machine learning](https://www.phys.ens.fr/IMG/pdf/-174.pdf) with master and PhD students.
+### About Artificial Intelligence
 
 * From 2018 to 2020, I sat at the board of the [CNC-RIAM](https://www.cnc.fr/professionnels/aides-et-financements/industries-techniques-innovation-et-relief/reseau-recherche-et-innovation-en-audiovisuel-et-multimedia-riam_191500) as an Artificial Intelligence specialist. RIAM (Recherche et Innovation en Audiovisuel et Multimédia) provides financial grants to innovative R&D projects in production, processing, distribution, and publication of images and audio.
 It is a partnership between CNC (Centre National du Cinema et de l'image animée) and BPI France.
@@ -93,6 +91,16 @@ It is a partnership between CNC (Centre National du Cinema et de l'image animée
 * In November 2018, I recorded a podcast in French about algorithms (for non-specialists), where I try to define and explain the basic concepts, give many examples, and talk about bias with Rachel Nullans from Brains Agency. ["À la découverte des algorithmes"](https://rachelnullans.paris/alice-coucke-a-la-decouverte-des-algorithmes/) (in French).
 
 * On March 29, 2018, I participated in a round table about artificial intelligence moderated by Aline Richard Zivohlava. Rendez-Vous de l'Inspirations: Les Intelligences Artificielles. ["Au commencement est l’humain"](https://www.youtube.com/watch?v=0ZW42yDR41Y) (in French).
+
+
+### About career opportunities
+
+* On November 9, 2021, I took part in a panel discussion on career paths inside and outside Academia in the [PhD track](https://spsc-symposium2021.de/#ph-d-track) of 1st ISCA Symposium on Security and Privacy in Speech Communication.
+
+* On September 17, 2021, I was invited to a round table "Physics and Machine Learning" at the ["Recontres Physique - Entreprise - Recherche"](https://rper.sciencesconf.org/resource/page/id/15) organized by the Société Française de Physique.
+
+* In November 2019 and October 2020, I was invited to the "Corporate meeting" of the Physics department of the Ecole Normale Supérieure where I share [my journey from theoretical physics to machine learning](https://www.phys.ens.fr/IMG/pdf/-174.pdf) with master and PhD students.
+
 
 * * *
 
