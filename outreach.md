@@ -13,6 +13,14 @@ Since February 2017:
 
 <dl>
 
+<dt>Festival IA 2021: Journée IA, Voix, Parole</dt>
+<dd>LIAvignon - November 17-19, 2021</dd>
+<dd>Round table: <a href="https://lia.univ-avignon.fr/tables-rondes-sur-lia-et-la-parole/">Les assistants personnels vocaux, généralistes ou spécifiques ? Jusqu’où personnaliser les services ?</a></dd> 
+
+<dt>Workshop on Speech as Personal Identifiable Information</dt>
+<dd>Lorentz Center workshop - November 1-5, 2021</dd>
+<dd>Round table: <a href="https://www.lorentzcenter.nl/speech-as-personal-identifiable-information.html">Reaching a common understanding</a></dd>
+
 <dt>Workshop on NLP for Music and Audio</dt>
 <dd>Colocated with ISMIR 2020 - October 16-17, 2020</dd>
 <dd>Talk: <a href="https://sites.google.com/view/nlp4musa/program">Music data processing for voice control</a></dd>
@@ -77,7 +85,7 @@ Since February 2017:
 
 ## And more ...
 
-### About Artificial Intelligence
+### about Artificial Intelligence
 
 * From 2018 to 2020, I sat at the board of the [CNC-RIAM](https://www.cnc.fr/professionnels/aides-et-financements/industries-techniques-innovation-et-relief/reseau-recherche-et-innovation-en-audiovisuel-et-multimedia-riam_191500) as an Artificial Intelligence specialist. RIAM (Recherche et Innovation en Audiovisuel et Multimédia) provides financial grants to innovative R&D projects in production, processing, distribution, and publication of images and audio.
 It is a partnership between CNC (Centre National du Cinema et de l'image animée) and BPI France.
@@ -93,7 +101,7 @@ It is a partnership between CNC (Centre National du Cinema et de l'image animée
 * On March 29, 2018, I participated in a round table about artificial intelligence moderated by Aline Richard Zivohlava. Rendez-Vous de l'Inspirations: Les Intelligences Artificielles. ["Au commencement est l’humain"](https://www.youtube.com/watch?v=0ZW42yDR41Y) (in French).
 
 
-### About career opportunities
+### about career opportunities
 
 * On November 9, 2021, I took part in a panel discussion on career paths inside and outside Academia in the [PhD track](https://spsc-symposium2021.de/#ph-d-track) of 1st ISCA Symposium on Security and Privacy in Speech Communication.
 
