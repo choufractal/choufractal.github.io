@@ -13,6 +13,10 @@ Since February 2017:
 
 <dl>
 
+<dt>Interspeech 2022</dt>
+<dd>Incheon, Korea, September 18-22, 2022</dd>
+<dd>Proposed and co-organized the Special session <a href="https://sites.google.com/view/fair-speech-interspeech22/">Inclusive and Fair Speech Technologies</a></dd> 
+
 <dt>Festival IA 2021: Journée IA, Voix, Parole</dt>
 <dd>LIAvignon - November 17-19, 2021</dd>
 <dd>Round table: <a href="https://lia.univ-avignon.fr/tables-rondes-sur-lia-et-la-parole/">Les assistants personnels vocaux, généralistes ou spécifiques ? Jusqu’où personnaliser les services ?</a></dd> 
