@@ -4,7 +4,7 @@ You can find my publications on my [Google Scholar Profile](https://scholar.goog
 
 ## Current
 
-At Sonos (and previously Snips), we consider the problem of automatic speech recognition on the edge, e.g. on small devices typical of IoT applications, with privacy in mind. I filed 3 patents currently under review. I have worked on several topics in automatic speech recognition: fairness in automatic speech recognition, keyword spotting in the context of wake word detectors, natural language understanding, sentence generation, etc.
+For Sonos Voice Control, we consider the problem of automatic speech recognition on the edge, e.g. on small devices typical of IoT applications, with privacy in mind. I filed 3 patents currently under review. I have worked on several topics: fairness in speech technologies, speech-to-text systems, keyword spotting in the context of wake word detectors, natural language understanding, sentence generation, etc.
 
 <dl>
   
