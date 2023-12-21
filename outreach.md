@@ -15,7 +15,7 @@ Since February 2017:
 
 <dt>Interspeech 2022</dt>
 <dd>Incheon, Korea, September 18-22, 2022</dd>
-<dd>Proposed and lead the organization of the Special session <a href="https://sites.google.com/view/fair-speech-interspeech22/">Inclusive and Fair Speech Technologies</a></dd> 
+<dd>Proposed and lead the organization of the Special session <a href="https://sites.google.com/view/fair-speech-interspeech22/">Inclusive and Fair Speech Technologies</a>, with Odette Scharenborg (Delft University of Technology, NL), Keith Burghardt (USC Information Sciences Institute, USA), Peng Liu, Anirudh Mani, and Tao Zhang (Amazon Alexa, USA), Priyankoo Sarmah (IIT Guwahati, India), Mahadeva Prasanna (IIT Dharwad, India), Mark Allan Hasegawa-Johnson (University of Illinois, USA), and Laurent Besacier (Naver Labs Europe, France)</dd> 
 
 <dt>Festival IA 2021: Journée IA, Voix, Parole</dt>
 <dd>LIAvignon - November 17-19, 2021</dd>
