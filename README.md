@@ -8,7 +8,7 @@ I am a machine learning project manager for the next generations of our product 
 
 On June 1st 2022, after several yearks of work, we released _Sonos Voice Control_: an on-device voice control interface on Sonos speakers, putting speed accuracy and privacy on an equal footing. You can find more details in this [post](https://tech-blog.sonos.com/posts/on-device-voice-control-on-sonos-speakers/) on Sonos Tech Blog.
 
-I got a PhD in statistical physics at the theoretical physics lab of the École Normale Supérieure (Paris) in 2016. I focused on high-dimensional inference with graphical models in the context of protein structure prediction.
+I hold a PhD in statistical physics from the École Normale Supérieure (Paris) since 2016. I focused on high-dimensional inference with graphical models in the context of protein structure prediction.
 
 Contact: coucke [at] phare [dot] normalesup [dot] org
 
