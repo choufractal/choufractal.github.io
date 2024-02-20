@@ -8,6 +8,10 @@ For Sonos Voice Control, we consider the problem of automatic speech recognition
 
 <dl>
   
+<dt>Sonos Voice Control Bias Assessment Dataset: A Methodology for Demographic Bias Assessment in Voice Assistants (pre-print)</dt>
+<dd>C. Sekkat, F. Leroy, S. Mdhaffar, B.P. Smith, Y. Estève, J. Dureau, and A. Coucke</dd>
+<dd>May 2024, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)</dd>
+
 <dt><a href="https://arxiv.org/abs/2011.01709">Small Footprint Text-Independent Speaker Verification For Embedded Systems
 </a></dt>
 <dd>J. Balian, R. Tavarone, M. Poumeyrol, and A. Coucke</dd>
