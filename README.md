@@ -11,5 +11,3 @@ I hold a PhD in statistical physics from the École Normale Supérieure (Paris) 
 Contact: coucke [at] phare [dot] normalesup [dot] org
 
 LinkedIn: [acoucke](https://www.linkedin.com/in/acoucke/)
-
-Twitter: @alicecoucke
