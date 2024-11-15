@@ -4,11 +4,11 @@ You can find my publications on my [Google Scholar Profile](https://scholar.goog
 
 ## Current
 
-For Sonos Voice Control, we consider the problem of automatic speech recognition on the edge, e.g. on small devices typical of IoT applications, with privacy in mind. I filed 3 patents currently under review. We also released several open evaluation datasets for spoken language understanding and keyword spotting that have now become standard benchmarks in the field. I have worked on several topics: fairness in speech technologies, speech-to-text systems, keyword spotting in the context of wake word detectors, natural language understanding, sentence generation, etc. Over the years, I maintained a strong interest in the scientific questions raised when assessing the performance of a machine learning model in realistic conditions.
+For Sonos Voice Control, we consider the problem of automatic speech recognition on the edge, e.g. on small devices typical of IoT applications, with privacy in mind. I filed 3 patents currently under review. We also released several open evaluation datasets for spoken language understanding and keyword spotting that have now become standard benchmarks in the field. I have worked on several topics: fairness in speech technologies, speech-to-text systems, lanhuahe modeling, keyword spotting in the context of wake word detectors, natural language understanding, etc. Over the years, I maintained a strong interest in the scientific questions raised when assessing the performance of a machine learning model in realistic conditions.
 
 <dl>
   
-<dt>Sonos Voice Control Bias Assessment Dataset: A Methodology for Demographic Bias Assessment in Voice Assistants (pre-print)</dt>
+<dt><a href="https://arxiv.org/abs/2405.19342">Sonos Voice Control Bias Assessment Dataset: A Methodology for Demographic Bias Assessment in Voice Assistants</dt>
 <dd>C. Sekkat, F. Leroy, S. Mdhaffar, B.P. Smith, Y. Estève, J. Dureau, and A. Coucke</dd>
 <dd>May 2024, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)</dd>
 
